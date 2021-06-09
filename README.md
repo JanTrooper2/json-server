@@ -1,1 +1,1 @@
-# json-server
+# rest-api / json-server
